@@ -1,4 +1,4 @@
-[![yamdb_final](https://github.com/frizzz17/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/frizzz17/yamdb_final/actions)
+[![yamdb_final](https://github.com/FedorovIgorFelikdovich/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/FedorovIgorFelikdovich/yamdb_final/actions)
 
 # yamdb_final
 yamdb_final
